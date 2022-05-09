@@ -1,0 +1,9 @@
+.banner {
+  /* 1. Set a background image */
+  background-image: src="Le Partage/images/banner.PNG";   
+  /* 2. Make the background image cover the banner div */
+  background-size: cover;     
+  /* 3. Center the image */
+  background-position: center;
+  padding: 200px 150px
+}
